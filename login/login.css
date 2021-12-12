@@ -1,0 +1,21 @@
+.login {   
+    content: center;
+align-items: center;   
+ text-align: left;
+ margin-top:  269px;
+ margin-right: 1%;
+}
+.u_name{
+    margin-right: 17px;
+    font-size: 20px;
+    margin-left: 12px;
+
+}
+.u_input{
+    width: 45%;
+    margin-right: 17px;
+}
+
+.l_button{
+    margin-top: 1%;
+}
