@@ -2,8 +2,8 @@
     content: center;
 align-items: center;   
  text-align: left;
- margin-top:  269px;
- margin-right: 1%;
+ margin:  269px 170px ;
+
 }
 .u_name{
     margin-right: 17px;
@@ -17,5 +17,5 @@ align-items: center;
 }
 
 .l_button{
-    margin-top: 1%;
+    margin: 1px 20px ;
 }
